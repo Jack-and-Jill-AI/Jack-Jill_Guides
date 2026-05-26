@@ -14,7 +14,11 @@ More guides coming as we build.
 ## Why we're sharing this
 
 Building with AI agents is still new territory. If sharing our frameworks saves someone else the same headaches, that's a good thing.
-We're building an AI-native recruiting marketplace, now trusted by over 200,000 humans. We're learning faster than we can write it down. 60+ PRs a week will do that. This repo is our attempt to keep sharing learnings in public.
+
+We're building an AI-native recruiting marketplace, now trusted by over 200,000 humans. 
+
+We're learning faster than we can write it down. 60+ PRs a week will do that. 
+This repo is our attempt to keep sharing learnings in public.
 
 Talk to our personified agents. Jack for job searching, Jill for hiring. https://www.jackandjill.ai/
 
