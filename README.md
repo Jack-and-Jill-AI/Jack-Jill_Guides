@@ -1,7 +1,7 @@
 
 # Jack & Jill — Public Guides
 
-A collection of frameworks, templates, and guides we've built internally at [Jack & Jill](https://jackjill.ai) — open sourced for anyone building with AI agents.
+A collection of frameworks, templates, and guides we've built internally at [Jack & Jill](https://www.jackandjill.ai/) — open sourced for anyone building with AI agents.
 
 We're an AI-powered recruiting marketplace. Jack is a free AI Career Agent for candidates. Jill is an AI Recruiter for employers. Behind the scenes, we run a fleet of AI agents to power our product and operations — and this is where we share what we learn.
 
@@ -15,4 +15,5 @@ More guides coming as we build.
 
 Building with AI agents is still new territory. We've made a lot of mistakes and learned a lot fast. If sharing our frameworks saves someone else the same headaches, that's a good thing.
 
-Follow along at [jackjill.ai](https://jackjill.ai) or on our CTO's LinkedIn. https://www.linkedin.com/in/saaras-mehan/
+Talk to our personified agents, trusted by over 200,000 humans. Jack for job searching, Jill for hiring. https://www.jackandjill.ai/
+And follow our CTO's LinkedIn for regular guides and learnings. https://www.linkedin.com/in/saaras-mehan/
