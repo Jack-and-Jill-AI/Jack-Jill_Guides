@@ -16,4 +16,5 @@ More guides coming as we build.
 Building with AI agents is still new territory. We've made a lot of mistakes and learned a lot fast. If sharing our frameworks saves someone else the same headaches, that's a good thing.
 
 Talk to our personified agents, trusted by over 200,000 humans. Jack for job searching, Jill for hiring. https://www.jackandjill.ai/
+
 And follow our CTO's LinkedIn for regular guides and learnings. https://www.linkedin.com/in/saaras-mehan/
