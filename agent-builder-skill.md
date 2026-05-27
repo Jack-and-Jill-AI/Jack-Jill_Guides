@@ -341,7 +341,7 @@ After files are created:
 
 ## Common Patterns by Agent Type
 
-The examples below draw from agents built at [Jack & Jill](https://jackjill.ai), an AI-powered recruiting marketplace. They're included to show what these archetypes look like in practice.
+The examples below draw from agents built at [Jack & Jill](https://www.jackandjill.ai/), an AI-powered recruiting marketplace. They're included to show what these archetypes look like in practice. Talk to Jack for free for inspiration. 
 
 ---
 
@@ -412,8 +412,7 @@ The examples below draw from agents built at [Jack & Jill](https://jackjill.ai),
 | Joy | Senior QA tester | British understatement | Slack, GitHub, Linear | Scheduled regression sweeps |
 | Jo | Grizzled SRE veteran | Weather patterns | Slack (immediate) | Event-driven (alerts) |
 | Jedi | Field commander | Star Wars | Slack (structured) | Orchestration coordinator |
-| Jeeves | Personal operator | None (specific voice) | Email drafts, Slack | On-demand communication |
-| Sophia's Eyes | Growth analyst | None (metrics language) | Slack (weekly) | Scheduled reporting |
+
 
 ---
 
@@ -443,7 +442,7 @@ This gives you a working structure to iterate from, rather than a blank slate.
 
 ## The J&J Doctrine
 
-This framework was built by the team at [Jack & Jill](https://jackjill.ai) as we scaled our own internal agent fleet. These are the principles we kept coming back to — sharing them as-is.
+This framework was built by the team at [Jack & Jill](https://www.jackandjill.ai/) as we scaled our own internal agent fleet. These are the principles we kept coming back to — sharing them as-is.
 
 **Conversational, not formal.** Agent files should read like a colleague explaining things, not a policy manual. If you'd be embarrassed to read it aloud in a standup, rewrite it. The agents that work best at J&J sound like people we'd actually want on the team.
 
