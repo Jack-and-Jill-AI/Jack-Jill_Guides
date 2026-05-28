@@ -3,7 +3,7 @@
 
 A collection of frameworks, templates, and guides we've built internally at [Jack & Jill](https://www.jackandjill.ai/) — open sourced for anyone building with AI agents.
 
-We're an AI-powered recruiting marketplace. Jack is a free AI Career Agent for candidates. Jill is an AI Recruiter for employers. Behind the scenes, we run a fleet of AI agents to power our product and operations — and this is where we share what we learn.
+We're an AI-powered recruiting marketplace. Jack is a free AI Career Agent for candidates. Jill is an AI Recruiter for employers. Behind the scenes, we run a fleet of AI agents (Juno, Joe, James, Jules, Jessica, Janice...) to power our product and operations — and this is where we share what we learn.
 
 ## What's in here
 
